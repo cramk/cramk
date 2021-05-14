@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cramk
 - 👀 I’m interested in automation, process design, and data flow.
-- 🌱 I’m currently learning/interesting in GO, Rust, Prolog, & functional languages.
+- 🌱 I’m currently learning/interested in Computer Vision, GO, Rust, Prolog, & functional languages.
 - 💞️ I’m looking to collaborate on CS research / publications and improving the concept of social platforms.
 
 
