@@ -6,7 +6,7 @@
 - *🥽 Full stack developer, mostly working in **JavaScript, C#, React, Vue, & Progress**
 - *👀 I have a passion for automation, process design, UX/UI, and data pipelines.
 - *🌱 My "Play More" topics are Computer Vision, Machine Learning, or Cloud Computing.
-- *💞️ I’m open to collaborate on CS research / publications or improving the concept of online communities.
+- *💞️ I’m open to collaborate on CS research / community projects.
 - *📫 How to reach me ... on GitHub.
 
 
