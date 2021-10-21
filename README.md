@@ -1,13 +1,4 @@
-### 👋 Hello, I’m Marc
-
-
-### Whoami? ✨
-- *Computer science graduate with a wide range of interests!
-- *🥽 Full stack developer, mostly working in **JavaScript, C#, React, Vue, & Progress**
-- *👀 I have a passion for automation, process design, UX/UI, and data pipelines.
-- *🌱 My "Play More" topics are Computer Vision, Machine Learning, or Cloud Computing.
-- *💞️ I’m open to collaborate on CS research / community projects.
-- *📫 How to reach me ... on GitHub.
+### 👋 Hello
 
 
 <code><img height="40" src="https://user-images.githubusercontent.com/14796164/128658344-f7d32f85-c242-4815-b30d-98221922eec4.png"/></code>
@@ -26,7 +17,7 @@
 
 **Github:**
 
-![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=cramk&show_icons=true&theme=material-palenight)
+![cramk's GitHub stats](https://github-readme-stats.vercel.app/api?username=cramk&show_icons=true&theme=material-palenight)
 
 **Languages:**
 
